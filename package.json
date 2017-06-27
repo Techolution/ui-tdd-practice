@@ -1,0 +1,22 @@
+{
+  "name": "ui-tdd-practice",
+  "version": "1.0.0",
+  "description": "tdd practice with javascript",
+  "main": "BalancedParentheses.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techolution-jason/ui-tdd-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techolution-jason/ui-tdd-practice/issues"
+  },
+  "homepage": "https://github.com/techolution-jason/ui-tdd-practice#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
