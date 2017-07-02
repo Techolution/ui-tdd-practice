@@ -8,7 +8,6 @@ describe('test', function() {
 
 	it('should work', function() {
 		expect(balancedParentheses).toBeDefined();
-
-		expect(balancedParentheses.getName()).toEqual("bob");
 	});
+	
 });
