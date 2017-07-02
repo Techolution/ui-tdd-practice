@@ -16,11 +16,13 @@ npm
 2. Refactor the source code until the test passes.
 
 Fail, Refactor, Pass
+
 Fail, Rafactor, Pass
 
 or
 
 Red, Refactor, Green!
+
 Red, Refactor, Green!
 
 This is your mantra!
